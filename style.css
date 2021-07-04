@@ -14,9 +14,11 @@ span{color: rgb(255, 0, 64);}
     color: rgb(46, 56, 146);
     font-size: 18px;
 }
-h1{font-size: 60px;}
+h1{font-size: 60px;
+color: rgb(160, 100, 216);}
 h3{
     font-size: 40px;
+    color: rgb(207, 116, 188);
 }
 .detail-pic img{
     width: 100%;
